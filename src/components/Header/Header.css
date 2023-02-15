@@ -1,0 +1,22 @@
+.header {
+  height: 140px;
+}
+.nav {
+  background-color: antiquewhite;
+  color: rgb(201, 31, 87);
+  height: 60px;
+}
+h2 {
+  text-align: right;
+  margin-right: 2rem;
+  padding: 1rem;
+  font-size: 2rem;
+}
+h1 {
+  background-color: rgb(197, 41, 93);
+  height: 60px;
+  margin-top: 0;
+  text-align: center;
+  padding: 0.8rem;
+  color: rgb(255, 255, 83);
+}
